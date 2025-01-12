@@ -4,7 +4,7 @@ We separate out things that are projects (work that has a beginning and end base
 
 ## Projects
 Start each new project as a new repo, private, shared with your line manager.
-This is NOT the case it the folder will contain IP or GDPR related material.
+This is NOT the case if the repo will contain IP or GDPR related material.
 
 Every project follows the following oversimplified workflow:
 
