@@ -12,8 +12,8 @@ Every project follows the following oversimplified workflow:
 - Do the planning
 - Do the work, automate and reuse code and knowledge where appropriate
 - Test the work, automate and reuse code and knowledge where appropriate
-- Document the work / Knowledge transfer to your line manager
-- Sign off, project done!
+- Document the work and ensure knowledge transfer to your line manager
+- Get a sign off, project done!
 
 This readme can be used as a template for other projects. Keep the main readme.md down to a page or so. Keep any detailed documentation in a ./docs folder and link to it from the table of contents.
 
