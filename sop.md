@@ -1,4 +1,4 @@
-# Title
+# 1. Title
 
 Document Number:
 
@@ -8,7 +8,7 @@ Approved:
 
 Status:
 
-##Revision History and Document Management
+## 1.1 Revision History and Document Management
 
 Draft:
 
@@ -16,11 +16,11 @@ Initial Release:
 
 Revision:
 
-## Summary of the Policy/Purpose of this SOP
+## 1.2 Summary of the Policy/Purpose of this SOP
 
-## Scope of this SOP
+## 1.3 Scope of this SOP
 
-## Actors
+## 1.4 Actors
 
 Responsible:
 
@@ -30,10 +30,10 @@ Consulted:
 
 Informed:
 
-## Resources and Prerequisites
+## 1.5 Resources and Prerequisites
 
-## Inputs
+## 1.6 Inputs
 
-# Actions
-# Acceptance Tests
-# Output
+# 2. Actions
+# 3. Acceptance Tests
+# 4. Output and documentation
