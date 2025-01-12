@@ -15,8 +15,10 @@ Every project follows the following oversimplified workflow:
 - Document the work / Knowledge transfer to your line manager
 - Sign off, project done!
 
+This readme can be used as a template for other projects. Keep the main readme.md down to a page or so. Keep any detailed documentation in a ./docs folder and link to it from the table of contents.
+
 ## Project Description
-This readme canbe used as a template for other projects. Keep the main readme.md down to a page or so. Keep any detailed documentation in a ./docs folder and link to it from the table of contents.
+Work in progress
 
 ## Table of Contents
 Work in progress
