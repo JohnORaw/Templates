@@ -1,6 +1,5 @@
 # Templates
-This repo holds templates for using in other projects, and is an early stage work in progress.
-
+This repo holds templates for using in other projects and services, and is an early stage work in progress. 
 We separate out things that are projects (work that has a beginning and end based on milestones) and services (which have a start and end, but roll out for a specific lifetime). 
 
 ## Projects
