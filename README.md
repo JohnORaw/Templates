@@ -1,2 +1,2 @@
 # Templates
-Templates for using in other projects
+This repo holds templates for using in other projects, and is an early stage work in progress.
